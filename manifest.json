@@ -11,9 +11,9 @@
   },
   "announcement": "Zoom Eklendi!",
   "announcementDate": "11.10.2026",
-  "launcherVersion": "1.15",
-  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.15-200f9126/launcher-1.15-200f9126.exe",
-  "launcherSha256": "200f91265da1fadfb9a6f50e039e1ece967d0b8048af24d589753dbad91014d5",
+  "launcherVersion": "1.16",
+  "launcherDownload": "",
+  "launcherSha256": "ff602201e1d3cbd4f6213bdef60d99cb46864c4c4b0c0dfba11a8a9f375a659b",
   "mods": [
     {
       "file": "BadOptimizations-2.4.1-1.21.11.jar",
