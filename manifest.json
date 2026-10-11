@@ -11,9 +11,9 @@
   },
   "announcement": "Sunucuya hoş geldiniz! İyi oyunlar.",
   "announcementDate": "",
-  "launcherVersion": "1.11",
-  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.11-0784505d/launcher-1.11-0784505d.exe",
-  "launcherSha256": "0784505d4db704db576707b7eb8a6d089a4c15dce6af7d80ee45f2fc3a7890fb",
+  "launcherVersion": "1.13",
+  "launcherDownload": "",
+  "launcherSha256": "7235394f7007702ee04fddc28cac8ffc3bfebaa2f31a921c105d37cee48a91db",
   "mods": [
     {
       "file": "BadOptimizations-2.4.1-1.21.11.jar",
