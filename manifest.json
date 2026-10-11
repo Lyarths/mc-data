@@ -10,8 +10,10 @@
     "logo": ""
   },
   "announcement": "Sunucuya hoş geldiniz! İyi oyunlar.",
-  "launcherVersion": "1.0.0",
-  "launcherDownload": "",
+  "announcementDate": "",
+  "launcherVersion": "1.0",
+  "launcherDownload": "https://raw.githubusercontent.com/Lyarths/mc-data/main/launcher/launcher-1.0-0784505d.exe",
+  "launcherSha256": "0784505d4db704db576707b7eb8a6d089a4c15dce6af7d80ee45f2fc3a7890fb",
   "mods": [
     {
       "file": "BadOptimizations-2.4.1-1.21.11.jar",
@@ -227,6 +229,11 @@
       "file": "jei-1.21.11-neoforge-27.35.0.90.jar",
       "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/jei-1.21.11-neoforge-27.35.0.90.jar",
       "sha1": "97559cb76ad6eebf91c400c3516e73a80afa3acd"
+    },
+    {
+      "file": "justzoom_neoforge_3.0.1_MC_1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/justzoom_neoforge_3.0.1_MC_1.21.11.jar",
+      "sha1": "3b6fedc5d560a78795be4ce40f5662b138310fe2"
     },
     {
       "file": "konkrete_neoforge_1.9.18_MC_1.21.11.jar",
