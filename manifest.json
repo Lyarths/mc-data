@@ -21,11 +21,6 @@
       "sha1": "70fa28d5a7a1fdd61dd804ca6ac411750da1473f"
     },
     {
-      "file": "BetterF3-17.0.0-NeoForge-1.21.11.jar",
-      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/BetterF3-17.0.0-NeoForge-1.21.11.jar",
-      "sha1": "edc6c40247d9959ec54447191b9194355c71309d"
-    },
-    {
       "file": "Chunky-NeoForge-1.4.54.jar",
       "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Chunky-NeoForge-1.4.54.jar",
       "sha1": "ac7e75707c5b537945638fcee3d2ec0da41fb9b7"
@@ -314,11 +309,6 @@
       "file": "prickle-neoforge-1.21.11-21.11.1.jar",
       "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/prickle-neoforge-1.21.11-21.11.1.jar",
       "sha1": "514c4aa7788baf720941c23bb5284ad256e824fb"
-    },
-    {
-      "file": "punchy-2.8c-neoforge-1.21.11.jar",
-      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/punchy-2.8c-neoforge-1.21.11.jar",
-      "sha1": "f68d0003d650f5f65c8508b9c3c8e8480e176e01"
     },
     {
       "file": "reeses-sodium-options-neoforge-2.2.4-mc1.21.11.jar",
