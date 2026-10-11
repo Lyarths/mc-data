@@ -1,0 +1,16 @@
+{
+  "launcherName": "ArkadasSMP",
+  "minecraft": "1.21.11",
+  "neoforge": "21.11.45",
+  "server": "stamina-arrive.tun.ply.gg",
+  "ram": "4G",
+  "theme": {
+    "color": "#7c3aed",
+    "background": "",
+    "logo": ""
+  },
+  "announcement": "Sunucuya hoş geldiniz! İyi oyunlar.",
+  "launcherVersion": "1.0.0",
+  "launcherDownload": "",
+  "mods": []
+}
