@@ -176,6 +176,11 @@
       "sha1": "f0e0210f1bd7f040a9fbb628c489780fbc9a3d5d"
     },
     {
+      "file": "elytratrims-neoforge-4.6.2_1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/elytratrims-neoforge-4.6.2_1.21.11.jar",
+      "sha1": "4f732c3fb195cb2715882d36ea629c477ea2dc1a"
+    },
+    {
       "file": "entity_texture_features-7.2.4-1.21.11-neoforge.jar",
       "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/entity_texture_features-7.2.4-1.21.11-neoforge.jar",
       "sha1": "7dfd2662efe9735b03111567404c65b680e824da"
