@@ -12,7 +12,7 @@
   "announcement": "Sunucuya hoş geldiniz! İyi oyunlar.",
   "announcementDate": "",
   "launcherVersion": "1.13",
-  "launcherDownload": "",
+  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.13-7235394f/launcher-1.13-7235394f.exe",
   "launcherSha256": "7235394f7007702ee04fddc28cac8ffc3bfebaa2f31a921c105d37cee48a91db",
   "mods": [
     {
