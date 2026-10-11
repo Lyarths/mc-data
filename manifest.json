@@ -12,5 +12,361 @@
   "announcement": "Sunucuya hoş geldiniz! İyi oyunlar.",
   "launcherVersion": "1.0.0",
   "launcherDownload": "",
-  "mods": []
+  "mods": [
+    {
+      "file": "BadOptimizations-2.4.1-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/BadOptimizations-2.4.1-1.21.11.jar",
+      "sha1": "70fa28d5a7a1fdd61dd804ca6ac411750da1473f"
+    },
+    {
+      "file": "BetterF3-17.0.0-NeoForge-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/BetterF3-17.0.0-NeoForge-1.21.11.jar",
+      "sha1": "edc6c40247d9959ec54447191b9194355c71309d"
+    },
+    {
+      "file": "Chunky-NeoForge-1.4.54.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Chunky-NeoForge-1.4.54.jar",
+      "sha1": "ac7e75707c5b537945638fcee3d2ec0da41fb9b7"
+    },
+    {
+      "file": "Clumps-neoforge-1.21.11-29.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Clumps-neoforge-1.21.11-29.0.0.1.jar",
+      "sha1": "77028885b527201e09a4126914ec203c7f4c0338"
+    },
+    {
+      "file": "Controlling-neoforge-1.21.11-29.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Controlling-neoforge-1.21.11-29.0.1.jar",
+      "sha1": "fde59cf170b47e4c79d89e3d3d607a055224cb0b"
+    },
+    {
+      "file": "CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar",
+      "sha1": "0cea022698535b30a4d7d98bd8920b900e3b8f02"
+    },
+    {
+      "file": "Explorify_v1.6.5.mod.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Explorify_v1.6.5.mod.jar",
+      "sha1": "5fb28be29200a41b034e423d87823eb19ad651cd"
+    },
+    {
+      "file": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-NeoForge.jar",
+      "sha1": "65fbd5e86dbf2a9e9a4b3fdc5592cd96d069ffc2"
+    },
+    {
+      "file": "Iceberg-1.21.11-neoforge-1.4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Iceberg-1.21.11-neoforge-1.4.0.2.jar",
+      "sha1": "c1c491f6e16fa4b112e04743915ed1090c040b91"
+    },
+    {
+      "file": "ImmediatelyFast-NeoForge-1.14.3-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/ImmediatelyFast-NeoForge-1.14.3-1.21.11.jar",
+      "sha1": "a4e7fe10b619b366a7d354b829849807ad4958af"
+    },
+    {
+      "file": "Jade-1.21.11-NeoForge-21.1.7.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Jade-1.21.11-NeoForge-21.1.7.jar",
+      "sha1": "601c907746605eb4a4f509de0bc6fbe577104c10"
+    },
+    {
+      "file": "MouseTweaks-neoforge-mc1.21.11-2.30.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/MouseTweaks-neoforge-mc1.21.11-2.30.jar",
+      "sha1": "5688476d4825989327967dd1d785d7898f577d62"
+    },
+    {
+      "file": "NoChatReports-NEOFORGE-1.21.11-v2.18.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/NoChatReports-NEOFORGE-1.21.11-v2.18.0.jar",
+      "sha1": "70ac8a1320a3f74d912e2b5728d7f711df50fea1"
+    },
+    {
+      "file": "Resourcify_-1.21.11-neoforge-1.8.7.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Resourcify_-1.21.11-neoforge-1.8.7.jar",
+      "sha1": "e37b0745f7dfeeb2dc5a1ed35ce755a1d926a14b"
+    },
+    {
+      "file": "Searchables-neoforge-1.21.11-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Searchables-neoforge-1.21.11-1.0.4.jar",
+      "sha1": "5a178f4ace2b8e03a269e166f69d5de135bff22f"
+    },
+    {
+      "file": "Structory_26.2_v1.3.7.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/Structory_26.2_v1.3.7.jar",
+      "sha1": "8a9a1a1b3f74398310420b6fbe2c26ef142bed42"
+    },
+    {
+      "file": "TransparentHud-1.21.11_NeoForge-3.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/TransparentHud-1.21.11_NeoForge-3.0.jar",
+      "sha1": "880b0d8a4aa45102301dadfca66a79e74a57699b"
+    },
+    {
+      "file": "addonslib-neoforge-1.21.11-1.2.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/addonslib-neoforge-1.21.11-1.2.jar",
+      "sha1": "3636879da12b404de19782ea3fe14419d35f3829"
+    },
+    {
+      "file": "amber-neoforge-11.6.0-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/amber-neoforge-11.6.0-1.21.11.jar",
+      "sha1": "cfc4cbd2b7c3e87b65d57f4f87cbf92bc73cb2ac"
+    },
+    {
+      "file": "appleskin-neoforge-mc1.21.11-3.0.8.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/appleskin-neoforge-mc1.21.11-3.0.8.jar",
+      "sha1": "f9b2a7f2459753727dffdb21cd15771ab57dfe23"
+    },
+    {
+      "file": "architectury-19.0.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/architectury-19.0.1-neoforge.jar",
+      "sha1": "dd5f16e90817329d5b1d38de1ffd43afd693c6b6"
+    },
+    {
+      "file": "attributefix-neoforge-1.21.11-21.11.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/attributefix-neoforge-1.21.11-21.11.1.jar",
+      "sha1": "a267d1be08d509f12cb41b2640d9af9f16536ce5"
+    },
+    {
+      "file": "balm-neoforge-1.21.11-21.11.9.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/balm-neoforge-1.21.11-21.11.9.1.jar",
+      "sha1": "4def274a463ebc949319305d0177c3e9d84d7782"
+    },
+    {
+      "file": "better-clouds-1.13.11-1.21.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/better-clouds-1.13.11-1.21.11-neoforge.jar",
+      "sha1": "66926fb3f8a2305943042439741a6f6636a885c7"
+    },
+    {
+      "file": "bml-1.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/bml-1.0.jar",
+      "sha1": "9550e63396d29113fb75c9d75edffa79cb27ad3d"
+    },
+    {
+      "file": "chat_heads-1.3.1-neoforge-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/chat_heads-1.3.1-neoforge-1.21.11.jar",
+      "sha1": "35996681f264aca17fb580649930a516a3f74ee3"
+    },
+    {
+      "file": "chesttracker-2.6.7-1.21.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/chesttracker-2.6.7-1.21.11-neoforge.jar",
+      "sha1": "5c8c17c4566089542ca66b93de06f92de68f356f"
+    },
+    {
+      "file": "cloth-config-21.11.153-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/cloth-config-21.11.153-neoforge.jar",
+      "sha1": "e9cb40c59491f8e4c5a87866f152432dfb17642e"
+    },
+    {
+      "file": "collective-1.21.11-8.32.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/collective-1.21.11-8.32.jar",
+      "sha1": "d8fcd71c03ae68b8f5b057e689f5e23fe30b6f21"
+    },
+    {
+      "file": "connectivity-1.21.11-7.6.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/connectivity-1.21.11-7.6.jar",
+      "sha1": "f383d91ad606edf00b00861c080036d4cb040242"
+    },
+    {
+      "file": "cupboard-1.21.11-3.5.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/cupboard-1.21.11-3.5.jar",
+      "sha1": "577c59be334e94d2befcefc83996a149c43ee081"
+    },
+    {
+      "file": "dynamic-fps-3.11.6-minecraft-1.21.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/dynamic-fps-3.11.6-minecraft-1.21.11-neoforge.jar",
+      "sha1": "f0e0210f1bd7f040a9fbb628c489780fbc9a3d5d"
+    },
+    {
+      "file": "entity_texture_features-7.2.4-1.21.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/entity_texture_features-7.2.4-1.21.11-neoforge.jar",
+      "sha1": "7dfd2662efe9735b03111567404c65b680e824da"
+    },
+    {
+      "file": "fast-ip-ping-v1.0.12-mc1.21.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/fast-ip-ping-v1.0.12-mc1.21.11-neoforge.jar",
+      "sha1": "b0fb14578ea96a7b5a32ca1574b046b04348dbc8"
+    },
+    {
+      "file": "ferritecore-8.2.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/ferritecore-8.2.0-neoforge.jar",
+      "sha1": "900f0f673fef88784711ee952cbf1fe8be2480bd"
+    },
+    {
+      "file": "framework-neoforge-1.21.11-0.13.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/framework-neoforge-1.21.11-0.13.11.jar",
+      "sha1": "778702e37eb2b79cc51d889f1d5af97f50ab28ae"
+    },
+    {
+      "file": "freecam-neoforge-1.4.1-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/freecam-neoforge-1.4.1-mc1.21.11.jar",
+      "sha1": "4907513b6364f30b0dc7779bb2b3f1aa90bba7ef"
+    },
+    {
+      "file": "ftb-library-neoforge-2111.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/ftb-library-neoforge-2111.1.1.jar",
+      "sha1": "c18eb5ec1d3f941fd653be0ff030a2377373b439"
+    },
+    {
+      "file": "ftb-xmod-compat-neoforge-21.11.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/ftb-xmod-compat-neoforge-21.11.0.jar",
+      "sha1": "195c7e2d1344b30651eab02c70c2d1950b044459"
+    },
+    {
+      "file": "geckolib-neoforge-1.21.11-5.4.5.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/geckolib-neoforge-1.21.11-5.4.5.jar",
+      "sha1": "8bc4c0177c8aa50771da0ead0aed9820774856c5"
+    },
+    {
+      "file": "iris-neoforge-1.10.8-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/iris-neoforge-1.10.8-mc1.21.11.jar",
+      "sha1": "c9a291081c4fba35397e1b30d9b77fc2bffc198c"
+    },
+    {
+      "file": "jamlib-neoforge-2.0.0-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/jamlib-neoforge-2.0.0-1.21.11.jar",
+      "sha1": "fde316cad71796bca6007b6f18a46a7c909d2489"
+    },
+    {
+      "file": "jei-1.21.11-neoforge-27.35.0.90.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/jei-1.21.11-neoforge-27.35.0.90.jar",
+      "sha1": "97559cb76ad6eebf91c400c3516e73a80afa3acd"
+    },
+    {
+      "file": "konkrete_neoforge_1.9.18_MC_1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/konkrete_neoforge_1.9.18_MC_1.21.11.jar",
+      "sha1": "0fb6f324e42ba71e8b6d3faa8cb9b65a810fad70"
+    },
+    {
+      "file": "kotlinforforge-6.3.0-all-2.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/kotlinforforge-6.3.0-all-2.jar",
+      "sha1": "62098bba4a4dba3354ede43a62fe5e012e5e667a"
+    },
+    {
+      "file": "kotlinforforge-6.3.0-all.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/kotlinforforge-6.3.0-all.jar",
+      "sha1": "13262b4f867d6ac269b0ce61ea39c88bf60e55bd"
+    },
+    {
+      "file": "lambdynamiclights-4.9.1-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/lambdynamiclights-4.9.1-1.21.11.jar",
+      "sha1": "f22487846158f62b3485a5a0723ba048326ac00f"
+    },
+    {
+      "file": "libjf-3.19.11-forge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/libjf-3.19.11-forge.jar",
+      "sha1": "eff2f0a11c07abb2558fa41973c01dcca6060535"
+    },
+    {
+      "file": "liteminer-neoforge-3.4.0-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/liteminer-neoforge-3.4.0-1.21.11.jar",
+      "sha1": "e11ff358c858ad8f893907d522aaf2a26309a621"
+    },
+    {
+      "file": "lithium-neoforge-0.21.4-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/lithium-neoforge-0.21.4-mc1.21.11.jar",
+      "sha1": "43a5f409c8c4b2f1dc1f894ca2bb12a16ae156fd"
+    },
+    {
+      "file": "mcw-bridges-3.1.2-mc1.21.11neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/mcw-bridges-3.1.2-mc1.21.11neoforge.jar",
+      "sha1": "7296ce0a358473317e530527e08a6cf16d04d576"
+    },
+    {
+      "file": "mcw-doors-1.1.5-mc1.21.11neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/mcw-doors-1.1.5-mc1.21.11neoforge.jar",
+      "sha1": "c7f749fa38a5c200438315cd31229067ad5b953c"
+    },
+    {
+      "file": "mcw-windows-2.4.2-mc1.21.11neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/mcw-windows-2.4.2-mc1.21.11neoforge.jar",
+      "sha1": "8ac37dd42e64b6b43b3672801b8027ca55b65f61"
+    },
+    {
+      "file": "mru-1.0.26-edge-1.21.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/mru-1.0.26-edge-1.21.11-neoforge.jar",
+      "sha1": "d57d98fa4b524a4d53a3abee47f5c92e6c130c6b"
+    },
+    {
+      "file": "music_disc_maker-3.0.5-neoforge-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/music_disc_maker-3.0.5-neoforge-1.21.11.jar",
+      "sha1": "467763032c4f0147484b827511fecef4c8066847"
+    },
+    {
+      "file": "nopackcompatcheck-0.1.0-neoforge-mc1.21-.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/nopackcompatcheck-0.1.0-neoforge-mc1.21-.jar",
+      "sha1": "0b5444aba6417749c3e9c25e3232103cc15183c0"
+    },
+    {
+      "file": "notenoughanimations-neoforge-1.12.6-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/notenoughanimations-neoforge-1.12.6-mc1.21.11.jar",
+      "sha1": "6b8a2d61549704918902ef32ca91824944f43a2c"
+    },
+    {
+      "file": "paintings-neoforge-1.21.11-17.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/paintings-neoforge-1.21.11-17.1.0.jar",
+      "sha1": "abdb486e8f838dc307091673ee8fd972a760eb46"
+    },
+    {
+      "file": "prickle-neoforge-1.21.11-21.11.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/prickle-neoforge-1.21.11-21.11.1.jar",
+      "sha1": "514c4aa7788baf720941c23bb5284ad256e824fb"
+    },
+    {
+      "file": "punchy-2.8c-neoforge-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/punchy-2.8c-neoforge-1.21.11.jar",
+      "sha1": "f68d0003d650f5f65c8508b9c3c8e8480e176e01"
+    },
+    {
+      "file": "reeses-sodium-options-neoforge-2.2.4-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/reeses-sodium-options-neoforge-2.2.4-mc1.21.11.jar",
+      "sha1": "a0d19ba97a4cff26f71d4f9347788b2cc878bad6"
+    },
+    {
+      "file": "skinlayers3d-neoforge-1.11.3-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/skinlayers3d-neoforge-1.11.3-mc1.21.11.jar",
+      "sha1": "4b6fb9d351067a1b93c9b2cdd376a0595152a54e"
+    },
+    {
+      "file": "sodium-extra-neoforge-0.9.4-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/sodium-extra-neoforge-0.9.4-mc1.21.11.jar",
+      "sha1": "242ffbf3c6409c83daeba739cef31c1fae7b945c"
+    },
+    {
+      "file": "sodium-neoforge-0.8.14-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/sodium-neoforge-0.8.14-mc1.21.11.jar",
+      "sha1": "de0cd8d51567dc64ccce584ab43e59db6116679e"
+    },
+    {
+      "file": "sound-physics-remastered-neoforge-1.21.11-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/sound-physics-remastered-neoforge-1.21.11-1.5.1.jar",
+      "sha1": "ba0177fd240defba5b5a0af720ea7ebb50fdd91e"
+    },
+    {
+      "file": "travelersbackpack-neoforge-1.21.11-10.11.7.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/travelersbackpack-neoforge-1.21.11-10.11.7.jar",
+      "sha1": "40da56f57aa4e8fae61ba64bea2c9a86e2de9ad4"
+    },
+    {
+      "file": "travelersbackpacksimpleupgrading-neoforge-1.21.11-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/travelersbackpacksimpleupgrading-neoforge-1.21.11-1.0.0.jar",
+      "sha1": "9df5ed3926c4e6eb5ce8480bc6e2f24de2749edd"
+    },
+    {
+      "file": "voicechat-neoforge-1.21.11-2.6.22.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/voicechat-neoforge-1.21.11-2.6.22.jar",
+      "sha1": "bb53fd85603b7abbca13dd0f2fc47f7e1ea96e60"
+    },
+    {
+      "file": "waystones-neoforge-1.21.11-21.11.9.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/waystones-neoforge-1.21.11-21.11.9.jar",
+      "sha1": "d328ee05dc4ece79e1b6602c33060021fa15b7c6"
+    },
+    {
+      "file": "xaeroworldmap-neoforge-1.21.11-1.46.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/xaeroworldmap-neoforge-1.21.11-1.46.0.jar",
+      "sha1": "5eeed0c0f83c970efc8069f634b8d51fde386b04"
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.8.2-1.21.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/yet_another_config_lib_v3-3.8.2-1.21.11-neoforge.jar",
+      "sha1": "32fc9f5560b745ce83dd46d7148e41c29357a28a"
+    }
+  ]
 }
