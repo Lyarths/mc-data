@@ -12,7 +12,7 @@
   "announcement": "Zoom Eklendi!",
   "announcementDate": "11.10.2026",
   "launcherVersion": "1.15",
-  "launcherDownload": "",
+  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.15-200f9126/launcher-1.15-200f9126.exe",
   "launcherSha256": "200f91265da1fadfb9a6f50e039e1ece967d0b8048af24d589753dbad91014d5",
   "mods": [
     {
