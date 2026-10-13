@@ -11,9 +11,9 @@
   },
   "announcement": "İstek Modlar Eklendi!",
   "announcementDate": "12.10.2026",
-  "launcherVersion": "1.18.2",
-  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.18.2-0e5127e0/launcher-1.18.2-0e5127e0.exe",
-  "launcherSha256": "0e5127e03310415484eb0341ff0a0de8d87c217e4fd024dee3f0cbf4666709f7",
+  "launcherVersion": "1.18.3",
+  "launcherDownload": "",
+  "launcherSha256": "f529db6831311529301f10b3a721ea0e78d8f023a8c6711d23a9f92ac5930568",
   "mods": [
     {
       "file": "BadOptimizations-2.4.1-1.21.11.jar",
