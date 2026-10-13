@@ -126,6 +126,11 @@
       "sha1": "dd5f16e90817329d5b1d38de1ffd43afd693c6b6"
     },
     {
+      "file": "astralguard-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/astralguard-1.0.0.jar",
+      "sha1": "118786a367da9bf1473c6d0e022d0d4ac5bd9722"
+    },
+    {
       "file": "attributefix-neoforge-1.21.11-21.11.1.jar",
       "url": "https://raw.githubusercontent.com/Lyarths/mc-data/main/mods/attributefix-neoforge-1.21.11-21.11.1.jar",
       "sha1": "a267d1be08d509f12cb41b2640d9af9f16536ce5"
