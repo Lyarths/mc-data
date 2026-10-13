@@ -12,7 +12,7 @@
   "announcement": "İstek Modlar Eklendi!",
   "announcementDate": "12.10.2026",
   "launcherVersion": "1.18.3",
-  "launcherDownload": "",
+  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.18.3-f529db68/launcher-1.18.3-f529db68.exe",
   "launcherSha256": "f529db6831311529301f10b3a721ea0e78d8f023a8c6711d23a9f92ac5930568",
   "mods": [
     {
