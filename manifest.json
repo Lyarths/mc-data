@@ -11,9 +11,9 @@
   },
   "announcement": "UI Güncellemesi Yayında!",
   "announcementDate": "14.10.2026",
-  "launcherVersion": "1.19",
-  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.19-4f6414b6/launcher-1.19-4f6414b6.exe",
-  "launcherSha256": "4f6414b638307f4b358e84fbfc8d9c1b451a2eefd4e65d30f870f5a174b7bdaf",
+  "launcherVersion": "1.19.1",
+  "launcherDownload": "",
+  "launcherSha256": "fc0eae47fa2d71c8657b63f79c818096b0f3b3a61096b032ac24051e4e8044e8",
   "mods": [
     {
       "file": "BadOptimizations-2.4.1-1.21.11.jar",
