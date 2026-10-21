@@ -11,9 +11,9 @@
   },
   "announcement": "Skinler Eklendi!",
   "announcementDate": "15.10.2026",
-  "launcherVersion": "1.19.2",
-  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.19.2-8784d6c7/launcher-1.19.2-8784d6c7.exe",
-  "launcherSha256": "8784d6c73e119023d32faafd10cf88a31c35222c1053b88da14bc2e15d01189f",
+  "launcherVersion": "1.19.3",
+  "launcherDownload": "",
+  "launcherSha256": "1b96f4c941b5298f2d43a366e160b59bcb36cde40ef7bd6ef409fbbea6493a1c",
   "mods": [
     {
       "file": "BadOptimizations-2.4.1-1.21.11.jar",
