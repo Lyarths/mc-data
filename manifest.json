@@ -12,7 +12,7 @@
   "announcement": "Skinler Eklendi!",
   "announcementDate": "15.10.2026",
   "launcherVersion": "1.19.3",
-  "launcherDownload": "",
+  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-1.19.3-1b96f4c9/launcher-1.19.3-1b96f4c9.exe",
   "launcherSha256": "1b96f4c941b5298f2d43a366e160b59bcb36cde40ef7bd6ef409fbbea6493a1c",
   "mods": [
     {
