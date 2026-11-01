@@ -12,7 +12,7 @@
   "announcement": "Çık gir yapıncaki bağlanamama sorunu çözüldü!",
   "announcementDate": "22.10.2026",
   "launcherVersion": "v1.20",
-  "launcherDownload": "",
+  "launcherDownload": "https://github.com/Lyarths/mc-data/releases/download/launcher-v1.20-9b4d802e/launcher-v1.20-9b4d802e.exe",
   "launcherSha256": "9b4d802ec51b8783133f47e3e1e6649b342657350e1c600ed6a11e5c6721fef4",
   "mods": [
     {
